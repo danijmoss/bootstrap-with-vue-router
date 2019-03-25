@@ -1,4 +1,4 @@
-# Bootstrap site Using Vue Router
+# Esuna Noodles: A Bootstrap site Using Vue Router
 
 This is a site for the fictional noodle restaurant Esuna Noodles.
 The site was configured with VueJS CLI3 and made with VueJS, Vue Router, Bootstrap 4 CSS, Font Awesome, and uses the Bootstrap 4 Cover template.
